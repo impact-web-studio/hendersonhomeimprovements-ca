@@ -1,21 +1,20 @@
 module.exports = {
-    name: "Code Stitch Web Designs",
-    email: "help@codestitch.app",
+    name: "Henderson Home Improvements",
+    email: "info@hendersonhomeimprovements.ca",
     phoneForTel: "555-779-4407",
     phoneFormatted: "(555) 779-4407",
     address: {
-        lineOne: "First Address Line",
-        lineTwo: "Second Address Line",
-        city: "Denver",
-        state: "CO",
-        zip: "80206",
-        country: "US",
-        mapLink: "https://goo.gl/maps/UAQn4vuGDiwv7DV39",
+        lineOne: "213 St George St.",
+        city: "Brantford",
+        state: "ON.",
+        zip: "N3R 1W6",
+        country: "CA",
+        mapLink: "https://maps.app.goo.gl/yhMP9U2iPeaXMPdj9",
     },
     socials: {
-        facebook: "https://www.facebook.com/",
-        instagram: "https://www.instagram.com/",
+        facebook:
+            "https://www.facebook.com/people/Henderson-Home-Improvements/100091092607361/?_rdr",
     },
     //! Make sure you include the file protocol (e.g. https://) and that NO TRAILING SLASH is included
-    domain: "https://www.example.com",
+    domain: "https://www.hendersonhomeimprovements.ca",
 };
