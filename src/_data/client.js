@@ -1,13 +1,13 @@
 module.exports = {
     name: "Henderson Home Improvements",
     email: "info@hendersonhomeimprovements.ca",
-    phoneForTel: "555-779-4407",
-    phoneFormatted: "(555) 779-4407",
+    phoneForTel: "226-802-6979",
+    phoneFormatted: "(226) 802-6979",
     address: {
         lineOne: "213 St George St.",
         city: "Brantford",
-        state: "ON.",
-        zip: "N3R 1W6",
+        province: "ON.",
+        postcalCode: "N3R 1W6",
         country: "CA",
         mapLink: "https://maps.app.goo.gl/yhMP9U2iPeaXMPdj9",
     },
